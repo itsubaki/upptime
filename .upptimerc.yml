@@ -1,5 +1,6 @@
 owner: itsubaki
 repo: upptime
+robotsText: "User-agent: * \n Disallow: /"
 
 sites:
   - name: Google
