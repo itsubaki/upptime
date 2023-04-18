@@ -14,4 +14,4 @@ sites:
 
 status-website:
   name: Upptime
-  baseURL: /upptime
+  baseUrl: /upptime
